@@ -9,6 +9,10 @@ edit file snippets/snippets.json
 ```
 
 ### Cara Menambahkan Fitur Wrap in XXX
+Cara terbaik untuk memahami cara kerja-nya adalah melihat contoh
+wrapInSingleChildScrollView pada file:
+commands.ts dan packages.json
+
 ```
 1. buka src/commands.ts
 2. edit array commands
