@@ -40,3 +40,13 @@ build.bat
 ```
 F5
 ```
+
+
+### Requirement
+Install VSCE
+```
+npm install -g @vscode/vsce
+```
+
+PENTING! Buka link ini:
+https://code.visualstudio.com/api/working-with-extensions/publishing-extension
