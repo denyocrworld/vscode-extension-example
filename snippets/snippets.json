@@ -1,0 +1,19 @@
+{
+    "texts": {
+        "prefix": "texts",
+        "body": [
+            "Text(",
+            "  \"$1\",",
+            "  style: TextStyle(",
+            "  $2",
+            "  ),",
+            "),$3"
+        ]
+    },
+    "bold": {
+        "prefix": "bold",
+        "body": [
+            "fontWeight: FontWeight.bold,$2"
+        ]
+    }
+}
